@@ -3,6 +3,10 @@
 ## Project Overview
 This project analyzes Twitter's historical stock market performance (2018–2024) using Python and Power BI. It explores stock price trends, trading volume, and key market insights through data visualization and an interactive dashboard.
 
+## Dashboard Preview
+![Twitter Stock Market Analysis Dashboard]
+(Dashboard.png)
+
 ## Tools & Technologies
 - Python
 - Pandas
